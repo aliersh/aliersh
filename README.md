@@ -1,10 +1,15 @@
-# Hi 👋 My name is Ariel Diaz 
+# Hi 👋 My name is Ariel Diaz
 ## Web Developer
-Hey there! I'm a web developer who's taken a fascinating journey from biochemical engineering to the vibrant world of web technologies. It's been an adventure starting with the bedrock of HTML, CSS, and JavaScript, and now, I'm weaving that knowledge with tools like Bootstrap and SCSS for some front-end magic. My engineering background has given me a unique perspective in tackling web development challenges. I thrive on creating responsive and engaging websites that not only look good but also function seamlessly. Currently, I’m diving into the exciting world of React, eager to add this dynamic framework to my toolkit. Balancing technical proficiency with strong communication and project planning skills, I'm all about bringing clarity and creativity to the digital realm. Excited to share, collaborate, and grow in this ever-evolving field!  
 
-* 🌍  I'm based in New York
-* ✉️  You can contact me at [ariel.diaz.borquez@icloud.com](mailto:ariel.diaz.borquez@icloud.com)
-* 🧠  I'm learning React
+Hey there! I'm a web developer who's taken a fascinating journey from biochemical engineering to the vibrant world of web technologies. It's been an adventure starting with the bedrock of HTML, CSS, and JavaScript, and now, I'm weaving that knowledge with tools like Bootstrap and SCSS for some front-end magic.
+
+My engineering background has given me a unique perspective in tackling web development challenges. I thrive on creating responsive and engaging websites that not only look good but also function seamlessly. Currently, I’m diving into the exciting world of React, eager to add this dynamic framework to my toolkit.
+
+Balancing technical proficiency with solid communication and project planning skills, I'm all about bringing clarity and creativity to the digital realm. Excited to share, collaborate, and grow in this ever-evolving field!
+
+  * 🌍  I'm based in New York
+  * ✉️  You can contact me at [ariel.diaz.borquez@icloud.com](mailto:ariel.diaz.borquez@icloud.com)
+  * 🧠  I'm learning React
 
 ### Skills  
 
