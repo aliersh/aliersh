@@ -1,4 +1,4 @@
-Software engineer focused on smart contracts and protocol systems. Recent work at OP Labs spanned Solidity (security analysis, contract testing, benchmark contracts), Python (AI test maintenance system in CI), and Go (infrastructure tooling for benchmarks).
+Software engineer focused on smart contracts and protocol systems. Recent work at OP Labs spanned Solidity (security analysis, contract testing, benchmark contracts) and Python (AI test maintenance system in CI), with additional infrastructure tooling work.
 
 ### OP Labs · 2025-2026
 
